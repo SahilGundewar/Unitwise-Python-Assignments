@@ -1,3 +1,0 @@
-Hello there, Iam a FY student at MIT ADT University..
-This is file handling example.
-This line is appended later.
